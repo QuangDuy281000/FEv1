@@ -1,0 +1,15 @@
+.nav-item {
+  margin-left: 50px;
+}
+.icon {
+  width: 10px;
+  height: 10px;
+  color: black;
+  margin-right: 13px;
+}
+ul li a:active{
+    color: white;
+}
+ul li a{
+    color: blue;
+}
